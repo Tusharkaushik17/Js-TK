@@ -1,0 +1,13 @@
+const acountId = 14435
+let accountEmail = "tusarrkoshik17@gmail.com";
+var accountPassword = "123456"
+accountCity = "Delhi"  /* -->> Not a good Practice*/
+
+// accountId = 255  not allowed because accountId is declared as const
+
+accountEmail = "tk54@gmail.com"
+accountPassword = "56497"
+accountCity = "Gurugram"
+let accountState
+
+console.table([accountEmail , accountPassword , accountCity , accountState])
