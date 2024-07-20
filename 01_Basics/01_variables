@@ -8,6 +8,6 @@ accountCity = "Delhi"  /* -->> Not a good Practice*/
 accountEmail = "tk54@gmail.com"
 accountPassword = "56497"
 accountCity = "Gurugram"
-let accountState
+let accountState;
 
 console.table([accountEmail , accountPassword , accountCity , accountState])
